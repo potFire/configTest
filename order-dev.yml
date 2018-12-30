@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://localhost:8881/eureka/
 server:
   port: 8883
-env: test2
+env: test3
